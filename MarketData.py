@@ -14,9 +14,9 @@ style.use("ggplot")
 
 #### End Header ####
 
-#### Start Importing the financial data from the web ####
+#### Start Web Importing the financial data ####
 
-# we define the date range we want
+# Here we define the date range
 start = dt.datetime(1962, 1, 3)
 end = dt.datetime(2012, 11, 9)
 
@@ -30,6 +30,10 @@ type(df)
 # save the dataframe as csv
 pd.DataFrame(df).to_csv("GSPC.csv")
 
-#### End Importing ####
+#### End Web Importing ####
+
+#### Import data csv file for data process ####
+
+^GSPC = pd.read_csv(
 
 I am using echo to add a line at the bottom of this file
