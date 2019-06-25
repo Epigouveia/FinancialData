@@ -2,4 +2,5 @@ Here are some questions for my good computer geek genius friends:
 
 - I have now a file called .py which it wont open on jupyter notebook the same way as before. Can I have an extension that makes me use it on the jupyter notebook?
 - On vim, I have comments as the same colour as some other commands. Can I change it to make it more distinguishable?
+- I cannot get rid of questions file with swp extention on git.
 - 
