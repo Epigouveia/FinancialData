@@ -14,8 +14,12 @@ On going
 
 # To add coded here use the following code#
 ``` 
-lang=bash
 # to add code
 echo ¨let's download and analyse the data¨ 
 ```
+<<<<<<< HEAD
 
+=======
+this is learning
+collab
+>>>>>>> 560e54af7d8436390816529b47e1cd01c3c3faa5
