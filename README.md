@@ -12,14 +12,16 @@ On going
 -last updated-
 29-06-2019
 
-# To add coded here use the following code#
-``` 
-# to add code
-echo ¨let's download and analyse the data¨ 
-```
-<<<<<<< HEAD
+-Financial analyses-
+From the data retrieved, the following analyses are done:
+- returns per day (percentage based)
+- frequency distribution of daily returns
+- monthly growth over time
+- and further more
 
-=======
-this is learning
-collab
->>>>>>> 560e54af7d8436390816529b47e1cd01c3c3faa5
+# To add code here use the following: start with three high commas
+```
+echo ¨let's download and analyse the data¨ 
+``` 
+#end with three high commas
+
