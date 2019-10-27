@@ -1,7 +1,7 @@
 ### FinancialData ###
 
 -Aim-
-This programme is for helping investors/traders to collect and visuzalise public company financial data
+This programme is for helping short and short-long traders to collect and visuzalise public company financial data
 
 -Software needed-
 To use this programme you need to have Python3 installed
@@ -10,7 +10,7 @@ To use this programme you need to have Python3 installed
 On going
 
 -last updated-
-29-06-2019
+27-10-2019
 
 -Financial analyses-
 From the data retrieved, the following analyses are done:
